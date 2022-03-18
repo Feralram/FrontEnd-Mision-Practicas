@@ -7,7 +7,6 @@ En el siguiente repositorio se puede encontrar los archivos del sitio web estati
 
 
 ![vacunacion.png](img/Vacunación.jpg)
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
 
 
 
