@@ -1,4 +1,4 @@
-# Practica de css; Replicar sitio web
+# Practica de css: Replicar sitio web
 
 El siguiente repositorio contiene los archivos de un sitio web estatico, el cual es el resultado de clonar una plantilla, que es la imagen que se muesta a continuación. El sitio esta optimizado para las siguientes resoluciones 1864px hasta los 1400px en ancho de pantalla.
 
@@ -6,7 +6,8 @@ En el siguiente repositorio se puede encontrar los archivos del sitio web estati
 
 
 
-![vacunacion.png](img/vacunacion.jpg)
+![vacunacion.png](img/Vacunación.jpg)
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
 
 
 
